@@ -1,5 +1,5 @@
 # File: .github/workflows/repo-sync.yml
-name: JD_signin
+name: sync-sazs34-scripts
 on:
   schedule:
     - cron: '5 0,15 * * *'
